@@ -1,0 +1,5 @@
+jekyll serve --port $PORT --host $IP
+
+---
+layout: default
+---
